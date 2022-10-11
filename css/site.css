@@ -85,3 +85,11 @@ footer {
 }
 
 /* set max width */
+
+.even {
+    font-weight: bolder;
+}
+
+.odd {
+    font-weight: 100;
+}
